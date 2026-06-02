@@ -6,7 +6,7 @@ This project aims to analyze the relationship between the economic strength of a
 
 ## Table Contents:
 | countries |
--------------
+:------------
 | Country |
 | CODE |
 | GDP (USD) |
